@@ -1,13 +1,13 @@
 ---
-title: "github.io blog start"
+title:  "github.io blog start"
 excerpt: "???"
 
 categories:
-	- Blog
+  - Blog
 tags:
-	- Blog
+  - Blog
 
-last_modified_at: 2019-12-10T01-21-00
+last_modified_at: 2019-12-10T08:06:00-05:00
 ---
 
 GitHub blog ...
